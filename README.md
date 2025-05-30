@@ -15,14 +15,16 @@ and I'm always eager to learn more.
 
 ### 📫 Connect With Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/hind-abdallah-4701bb301/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hind-abdallah-4701bb301/" target="_blank" style="margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:Hind.AlAraimi@outlook.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/ms-outlook.png" alt="Outlook Email" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/ms-outlook.png" alt="Outlook" width="35" height="35"/>
   </a>
-</div>
+</p>
+
 
 <br/>
 
