@@ -12,18 +12,11 @@ From Python scripting to data visualization, I've explored multiple layers of th
 and I'm always eager to learn more.
 
 ---
-
 ### 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hind-abdallah-4701bb301/" target="_blank" style="margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:Hind.AlAraimi@outlook.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/ms-outlook.png" alt="Outlook" width="35" height="35"/>
-  </a>
-</p>
+- 📍 Based in Oman  
+- 💬 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hind-abdallah-4701bb301/)  
+- 📧 Email me at [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:Hind.AlAraimi@outlook.com)
 
 
 <br/>
