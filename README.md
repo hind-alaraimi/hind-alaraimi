@@ -53,7 +53,7 @@ and I'm always eager to learn more.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api?username=hind-alaraimi&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
   <source
