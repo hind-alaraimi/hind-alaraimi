@@ -6,9 +6,9 @@
 
 ### 👩‍💻 About Me
 
-I'm a tech enthusiast with a growing passion for working across the data stack.  
+<h4>I'm a tech enthusiast with a growing passion for working across the data stack.  
 From Python scripting to data visualization, I've explored multiple layers of the data journey —  
-and I'm always eager to learn more.
+and I'm always eager to learn more.</h4>
 ---
 
 <h3>📫 Connect With Me</h3>
