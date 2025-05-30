@@ -1,33 +1,64 @@
-### 👋👩‍💻 About Me
+<div align="center">
+  
+  <h1>Hi there 👋 I'm Hind Al Araimi</h1>
+
+</div>
+
+### 👩‍💻 About Me
 
 I'm a tech enthusiast with a growing passion for working across the data stack.  
-From Python scripting to data visualization, I've explored multiple layers of the data journey —
+From Python scripting to data visualization, I've explored multiple layers of the data journey —  
 and I'm always eager to learn more.
 
+---
+
 ### 💡 What I Do
-- Develop clean, efficient Python code
-- Analyze and visualize data for insights and storytelling
-- Build dashboards and reports to support decision-making
-- Work with SQL and databases to organize and query data
-- Automate data workflows and explore tools in data engineering
 
-### 🧠 Currently Exploring
-- Data pipelines with tools like Airflow
-- Advanced visualization and dashboarding techniques
-- Docker and automation for scalable workflows
-
-### 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-
-
-### 📫 Connect With Me
-- 📍 Based in Oman
-- 💬 Reach me on [LinkedIn](linkedin.com/in/hind-abdallah-4701bb301/)
+- Develop clean, efficient Python code  
+- Analyze and visualize data for insights and storytelling  
+- Build dashboards and reports to support decision-making  
+- Work with SQL and databases to organize and query data  
+- Automate data workflows and explore tools in data engineering  
 
 ---
+
+### 🧠 Currently Exploring
+
+- Data pipelines with tools like Airflow  
+- Advanced visualization and dashboarding techniques  
+- Docker and automation for scalable workflows  
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://seeklogo.com/images/P/power-bi-logo-AF6D1B0C58-seeklogo.com.png" alt="Power BI" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- 📍 Based in Oman  
+- 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/hind-abdallah-4701bb301/)  
+
+---
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+</picture>
