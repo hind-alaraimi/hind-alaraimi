@@ -9,7 +9,15 @@
 I'm a tech enthusiast with a growing passion for working across the data stack.  
 From Python scripting to data visualization, I've explored multiple layers of the data journey —  
 and I'm always eager to learn more.
+---
 
+<h3>📫 Connect With Me</h3>
+
+<ul>
+  <li>📍 Based in Oman</li>
+  <li>💬 Reach me on <a href="https://www.linkedin.com/in/hind-abdallah-4701bb301/" target="_blank">LinkedIn</a></li>
+  <li>📧 Email: <a href="mailto:Hind.AlAraimi@outlook.com">Hind.AlAraimi@outlook.com</a></li>
+</ul>
 ---
 
 ### 💡 What I Do
@@ -56,12 +64,6 @@ and I'm always eager to learn more.
   </a>
 </p>
 
----
-
-### 📫 Connect With Me
-
-- 📍 Based in Oman  
-- 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/hind-abdallah-4701bb301/)  
 
 ---
 
