@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there I'm Hind 👋</h1>
+  <h1>Hi there, I'm Hind 👋</h1>
   <i>🚀 Data. Code. Coffee. Repeat.</i>
 </div>
 
