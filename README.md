@@ -1,23 +1,31 @@
 <div align="center">
-  
   <h1>Hi there 👋 I'm Hind Al Araimi</h1>
-
+  <i>🚀 Data. Code. Coffee. Repeat.</i>
 </div>
+
+---
 
 ### 👩‍💻 About Me
 
-<h4>I'm a tech enthusiast with a growing passion for working across the data stack.  
+I'm a tech enthusiast with a growing passion for working across the data stack.  
 From Python scripting to data visualization, I've explored multiple layers of the data journey —  
-and I'm always eager to learn more.</h4>
+and I'm always eager to learn more.
+
 ---
 
-<h3>📫 Connect With Me</h3>
+### 📫 Connect With Me
 
-<ul>
-  <li>📍 Based in Oman</li>
-  <li>💬 Reach me on <a href="https://www.linkedin.com/in/hind-abdallah-4701bb301/" target="_blank">LinkedIn</a></li>
-  <li>📧 Email: <a href="mailto:Hind.AlAraimi@outlook.com">Hind.AlAraimi@outlook.com</a></li>
-</ul>
+<div align="center">
+  <a href="https://www.linkedin.com/in/hind-abdallah-4701bb301/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:Hind.AlAraimi@outlook.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/ms-outlook.png" alt="Outlook Email" width="40" height="40"/>
+  </a>
+</div>
+
+<br/>
+
 ---
 
 ### 💡 What I Do
@@ -40,7 +48,7 @@ and I'm always eager to learn more.</h4>
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
+<p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -64,17 +72,18 @@ and I'm always eager to learn more.</h4>
   </a>
 </p>
 
-
 ---
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hind-alaraimi&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hind-alaraimi&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=hind-alaraimi&show_icons=true" />
-</picture>
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=hind-alaraimi&show_icons=true&theme=dracula"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=hind-alaraimi&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=hind-alaraimi&show_icons=true" />
+  </picture>
+</div>
