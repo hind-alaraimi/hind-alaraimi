@@ -7,37 +7,35 @@
 
 ### 👩‍💻 About Me
 
-I'm a tech enthusiast with a growing passion for working across the data stack.  
-From Python scripting to data visualization, I've explored multiple layers of the data journey —  
-and I'm always eager to learn more.
-
----
-### 📫 Connect With Me
-
-- 📍 Based in Oman  
-- 💬 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hind-abdallah-4701bb301/)  
-- 📧 Email me at [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:Hind.AlAraimi@outlook.com)
-
+Tech enthusiast passionate about the full data journey —  
+from Python scripting to visualization, and always exploring what's next.
 
 <br/>
 
 ---
 
-### 💡 What I Do
-
-- Develop clean, efficient Python code  
-- Analyze and visualize data for insights and storytelling  
-- Build dashboards and reports to support decision-making  
-- Work with SQL and databases to organize and query data  
-- Automate data workflows and explore tools in data engineering  
+## 💡 What I Do  
+- Write clean, efficient Python code  
+- Analyze data and build machine learning models  
+- Create dashboards and reports to support decision-making  
+- Work with SQL to manage and query data  
+- Automate workflows and build ETL pipelines  
 
 ---
 
-### 🧠 Currently Exploring
+## 🧠 Currently Exploring  
+- Deep learning and model optimization  
+- Scalable data workflows with Docker and Airflow  
+- Advanced data visualization techniques  
+- Building stronger project reasoning and storytelling  
 
-- Data pipelines with tools like Airflow  
-- Advanced visualization and dashboarding techniques  
-- Docker and automation for scalable workflows  
+---
+
+### 📫 Connect With Me
+
+- 📍 Based in Oman  
+- 💬 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hind-abdallah-4701bb301/)  
+- 📧 Email me at [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:Hind.AlAraimi@outlook.com)
 
 ---
 
